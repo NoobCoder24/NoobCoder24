@@ -1,6 +1,7 @@
 ### Hi there, I'm Atul aka NoobCoder24 👋
 
 ## I'm a Husband, Developer, and Teacher!
+- 🔭 I’m currently working on something cool!
 - 🥅 2020 Goals: Learn new Languages and contribute more.
 - ⚡ Fun fact: Enjoy my time playing PUBG or watching movies when not coding !
 
