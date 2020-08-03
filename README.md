@@ -11,11 +11,10 @@
 [<img align="left" alt="NoobCoder24 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br/>
 
-
-<img align="left" alt="NoobCoder24's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NoobCoder24&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="NoobCoder24's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NoobCoder24&show_icons=true&hide_border=true" /> -->
 
 [twitter]: https://twitter.com/Noobcoder24
-[youtube]: https://youtube.com/NoobCoder24
 [instagram]: https://instagram.com/_NoobCoder24_
 [linkedin]: https://linkedin.com/in/NoobCoder24
