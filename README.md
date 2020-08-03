@@ -1,4 +1,4 @@
-### Hi there, I'm Atul aka [NoobCoder24] 👋
+### Hi there, I'm Atul aka NoobCoder24 👋
 
 ## I'm a Husband, Developer, and Teacher!
 - 🥅 2020 Goals: Learn new Languages and contribute more.
