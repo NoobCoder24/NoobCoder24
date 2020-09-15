@@ -7,7 +7,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="thenoobcoder.ml" width="22px" src="https://thenoobcoder.ml" />][website]
 [<img align="left" alt="NoobCoder24 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="NoobCoder24 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="NoobCoder24 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
